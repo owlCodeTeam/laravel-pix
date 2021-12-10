@@ -1,4 +1,4 @@
-# Este projeto é um Forked de https://github.com/mateusjunges/laravel-pix
+# Este projeto é um Fork de https://github.com/mateusjunges/laravel-pix
 
 [![Continuous Integration](https://github.com/mateusjunges/laravel-pix/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/mateusjunges/laravel-pix/actions/workflows/run-tests.yml)
 [![StyleCI](https://styleci.io/repos/364809206/shield?style=flat)](https://styleci.io/repos/364809206)
